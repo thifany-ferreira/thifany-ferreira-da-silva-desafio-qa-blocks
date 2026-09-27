@@ -2,6 +2,8 @@
 
 Automação do fluxo de cadastro de https://www.blocksrvt.com/pt/registrar com **Playwright + TypeScript**, usando o padrão **Page Object**.
 
+**Autora:** Thifany Ferreira da Silva — Desafio técnico QA | Blocks
+
 ## Como rodar
 
 ```bash
